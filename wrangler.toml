@@ -1,5 +1,5 @@
 name = "newsnow"
-pages_build_output_dir = "dist"
+pages_build_output_dir = "dist/output/public"
 compatibility_date = "2025-07-10"
 
 [[d1_databases]]
