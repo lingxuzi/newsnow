@@ -1,5 +1,6 @@
-name = "newsnow"  # 你的项目名称
-type = "javascript"
+name = "newsnow"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-07-10"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
